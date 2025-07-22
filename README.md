@@ -8,17 +8,17 @@ Einstabot then initiates the chat with a greeting followed by a list of the Phys
 The user can then type the topic name or number to start learning through the chatbot. It is important to note that Einsabot is fully conversational, meaning that the user does not have to choose from the options listed by the chatbot but they can instead ask any Physiscs questions directly. 
 
 ## Chatbot Development
-Einstabot has been developed using [Tidio AI customer service software](https://www.tidio.com/about/). Tidio provides a base chatbot that is capable of conversing natural language. From this staring point, we began by adding the Physics knowledge to the chabot using CSV files. 
+Einstabot has been developed using [Tidio AI customer service software](https://www.tidio.com/about/). Tidio provides a base chatbot that is capable of conversing in natural language. From this staring point, we began by adding the Physics knowledge to the chabot using CSV files. 
 
-After this, we worked on giving the chatbot a fun and engaging personality. This involved setting the personality of the chatbot to be more friendly rather than formal, making it use emojis in conversation as well as maintaining a positive attitude. 
+After this, we worked on giving the chatbot a fun and engaging personality. This involved setting the personality of the chatbot to be more friendly rather than formal, making it use emojis in conversation as well as ensuring it always maintains a positive attitude. 
 
 Following this, we worked on improving the general user experience. Some of the functionalities we added towards this end are: 
 1. Making Einsabot ask for the user's name and remember it in future conersations.
 2. Time appropriate greetings from Einstabot.
 3. Asking follow up questions after replies and suggesting additional topics.
 
-## Chatbot Status
-The chatbot is currently not under any further development.
+## Einstabot Status
+Einstabot is currently not under development.
 
 ## Authors
 1. Christopher Wamae Muraguri
